@@ -204,7 +204,7 @@ UK-LON-S2-1-1C3G:
 
 *   Buildings shall have `CONTAINS` connections to Floors
 *   Floors should have `CONTAINS` connections to all Rooms
-*   Floors should have `CONTAINS` connections to all Devices
+*   Rooms should have `CONTAINS` connections to all Devices
 
 In this example, entities are named using their standardized \[up to\]5-segment
 codes. Codes of this type are widely used and highly recommended due to their
